@@ -1,0 +1,16 @@
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\bin\Debug\netcoreapp2.0\AracRezervasyonSistemi.deps.json
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\bin\Debug\netcoreapp2.0\AracRezervasyonSistemi.runtimeconfig.json
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\bin\Debug\netcoreapp2.0\AracRezervasyonSistemi.runtimeconfig.dev.json
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\bin\Debug\netcoreapp2.0\AracRezervasyonSistemi.dll
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\obj\Debug\netcoreapp2.0\AracRezervasyonSistemi.csprojAssemblyReference.cache
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\obj\Debug\netcoreapp2.0\AracRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\obj\Debug\netcoreapp2.0\AracRezervasyonSistemi.AssemblyInfoInputs.cache
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\obj\Debug\netcoreapp2.0\AracRezervasyonSistemi.AssemblyInfo.cs
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\bin\Debug\netcoreapp2.0\AracRezervasyonSistemi.pdb
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\bin\Debug\netcoreapp2.0\ARS.Business.dll
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\bin\Debug\netcoreapp2.0\ARS.DataAccess.dll
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\bin\Debug\netcoreapp2.0\ARS.Business.pdb
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\bin\Debug\netcoreapp2.0\ARS.DataAccess.pdb
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\obj\Debug\netcoreapp2.0\AracRezervasyonSistemi.csproj.CopyComplete
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\obj\Debug\netcoreapp2.0\AracRezervasyonSistemi.dll
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\AracRezervasyonSistemi\obj\Debug\netcoreapp2.0\AracRezervasyonSistemi.pdb

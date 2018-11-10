@@ -1,0 +1,14 @@
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.Business\bin\Debug\netcoreapp2.0\ARS.Business.deps.json
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.Business\bin\Debug\netcoreapp2.0\ARS.Business.dll
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.Business\bin\Debug\netcoreapp2.0\ARS.Business.pdb
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.Business\obj\Debug\netcoreapp2.0\ARS.Business.csproj.CoreCompileInputs.cache
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.Business\obj\Debug\netcoreapp2.0\ARS.Business.AssemblyInfoInputs.cache
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.Business\obj\Debug\netcoreapp2.0\ARS.Business.AssemblyInfo.cs
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.Business\obj\Debug\netcoreapp2.0\ARS.Business.dll
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.Business\obj\Debug\netcoreapp2.0\ARS.Business.pdb
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.Business\obj\Debug\netcoreapp2.0\ARS.Business.csprojAssemblyReference.cache
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.Business\bin\Debug\netcoreapp2.0\ARS.DataAccess.dll
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.Business\bin\Debug\netcoreapp2.0\ARS.DataAccess.pdb
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.Business\obj\Debug\netcoreapp2.0\ARS.Business.csproj.CopyComplete
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.Business\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.Business\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.xml

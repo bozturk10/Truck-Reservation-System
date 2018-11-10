@@ -1,0 +1,16 @@
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\bin\Debug\netcoreapp2.0\ARS.WebAPI.deps.json
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\bin\Debug\netcoreapp2.0\ARS.WebAPI.runtimeconfig.json
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\bin\Debug\netcoreapp2.0\ARS.WebAPI.runtimeconfig.dev.json
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\bin\Debug\netcoreapp2.0\ARS.WebAPI.dll
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\bin\Debug\netcoreapp2.0\ARS.WebAPI.pdb
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\obj\Debug\netcoreapp2.0\ARS.WebAPI.csprojAssemblyReference.cache
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\obj\Debug\netcoreapp2.0\ARS.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\obj\Debug\netcoreapp2.0\ARS.WebAPI.AssemblyInfoInputs.cache
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\obj\Debug\netcoreapp2.0\ARS.WebAPI.AssemblyInfo.cs
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\obj\Debug\netcoreapp2.0\ARS.WebAPI.dll
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\obj\Debug\netcoreapp2.0\ARS.WebAPI.pdb
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\bin\Debug\netcoreapp2.0\ARS.Business.dll
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\bin\Debug\netcoreapp2.0\ARS.DataAccess.dll
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\bin\Debug\netcoreapp2.0\ARS.DataAccess.pdb
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\bin\Debug\netcoreapp2.0\ARS.Business.pdb
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.WebAPI\obj\Debug\netcoreapp2.0\ARS.WebAPI.csproj.CopyComplete

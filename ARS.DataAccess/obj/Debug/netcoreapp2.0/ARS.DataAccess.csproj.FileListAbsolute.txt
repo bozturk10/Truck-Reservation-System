@@ -1,0 +1,8 @@
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.DataAccess\obj\Debug\netcoreapp2.0\ARS.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.DataAccess\obj\Debug\netcoreapp2.0\ARS.DataAccess.AssemblyInfoInputs.cache
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.DataAccess\obj\Debug\netcoreapp2.0\ARS.DataAccess.AssemblyInfo.cs
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.DataAccess\bin\Debug\netcoreapp2.0\ARS.DataAccess.deps.json
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.DataAccess\bin\Debug\netcoreapp2.0\ARS.DataAccess.dll
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.DataAccess\bin\Debug\netcoreapp2.0\ARS.DataAccess.pdb
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.DataAccess\obj\Debug\netcoreapp2.0\ARS.DataAccess.dll
+C:\Users\beozturk\source\repos\AracRezervasyonSistemi\ARS.DataAccess\obj\Debug\netcoreapp2.0\ARS.DataAccess.pdb
